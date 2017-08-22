@@ -1,7 +1,7 @@
 {
-  "name": "angular-trackjs-seekjobs",
+  "name": "angular-trackjs-borhub",
   "version": "0.1.1",
-  "homepage": "https://github.com/SEEK-Jobs/angular-trackjs",
+  "homepage": "https://github.com/borhub/angular-trackjs",
   "authors": [
     "Jamie Le Souef <jamielesouef@gmail.com>",
     "Boris Kvid <bkvid@seek.com.au>"

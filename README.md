@@ -12,13 +12,13 @@ You need to include the trackJS script before your angular app. You can signup a
 
 ####Bower
 
-    bower install angular-trackjs-seekjobs --save
+    bower install angular-trackjs-borhub --save
 
 #### git
 
 In your vendors folder:
 
-    git clone https://github.com/SEEK-Jobs/angular-trackjs.git
+    git clone https://github.com/borhub/angular-trackjs.git
 
 ###Add to your project
 Add after angular files but before your app files
